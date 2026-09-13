@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: futureshops_tacz_compat
+Specification-Vendor: ARITSIA
+Specification-Version: 1
+Implementation-Title: FutureShopsTaCZCompat
+Implementation-Version: 1.0.0
+Implementation-Vendor: ARITSIA
+Implementation-Timestamp: 2026-09-13T17:44:13+0700
+MixinConfigs: futureshops_tacz_compat.mixins.json
+

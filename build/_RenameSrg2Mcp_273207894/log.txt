@@ -1,0 +1,14 @@
+Java Launcher: E:\Aritsia\Minecraft\Custom Mods\Future Shop Compat With TaCZ\FutureShopsTaCZCompat\jdk-17.0.12+7\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, E:\Aritsia\Minecraft\Custom Mods\Future Shop Compat With TaCZ\FutureShopsTaCZCompat\libs\tacz-1.20.1-1.1.8-hotfix.jar, --output, C:\Users\luciz\.gradle\caches\forge_gradle\deobf_dependencies\blank\tacz\1.20.1-1.1.8-hotfix_mapped_official_1.20.1\tacz-1.20.1-1.1.8-hotfix_mapped_official_1.20.1.jar, --mcp, C:\Users\luciz\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\luciz\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: E:\Aritsia\Minecraft\Custom Mods\Future Shop Compat With TaCZ\FutureShopsTaCZCompat\build\_RenameSrg2Mcp_273207894
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  E:\Aritsia\Minecraft\Custom Mods\Future Shop Compat With TaCZ\FutureShopsTaCZCompat\libs\tacz-1.20.1-1.1.8-hotfix.jar
+Output: C:\Users\luciz\.gradle\caches\forge_gradle\deobf_dependencies\blank\tacz\1.20.1-1.1.8-hotfix_mapped_official_1.20.1\tacz-1.20.1-1.1.8-hotfix_mapped_official_1.20.1.jar
+MCP:    C:\Users\luciz\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
